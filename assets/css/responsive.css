@@ -1,0 +1,447 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    html {
+        font-size: 45.5%;
+    }
+    .diesel-area {
+        min-height: 1400px;
+    }
+    .full-synthetic {
+        min-height: 1175px;
+        padding-top: 80px;
+    }
+    .product-left-shape {
+        height: 720px;
+        width: 52%;
+    }
+    .product-box-img img {
+        max-width: 75%;
+    }
+    .product-box {
+        padding: 25rem 0 7rem 8rem;
+        background-size: cover;
+        min-height: 870px;
+    }
+    .bottle-slider-area {
+        min-height: 900px;
+    }
+    .convention {
+        min-height: 1380px;
+        padding-top: 0;
+    }
+    .convention .section-title {
+        padding-bottom: 25rem;
+    }
+    .convention.convention-2 {
+        min-height: 1280px;
+    }
+    .box-package {
+        padding: 20px 0;
+    }
+    .box-package-img {
+        margin-top: -100px;
+    }
+    .box-package .absolute-img {
+        bottom: -150px;
+    }
+    .thank-you-area {
+        height: 541px;
+        padding-top: 100px;
+    }
+    .web-package-img.web-package-2 {
+        right: -10%;
+        top: 19%;
+    }
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+    html {
+        font-size: 45.5%;
+    }
+    .web-package {
+        padding-top: 15%;
+    }
+    .diesel-area {
+        min-height: 1045px;
+    }
+    .full-synthetic {
+        min-height: 1000px;
+        padding-top: 40px;
+    }
+    .product-left-shape {
+        height: 650px;
+        width: 52%;
+    }
+    .product-box-img img {
+        max-width: 75%;
+    }
+    .product-box {
+        padding: 25rem 0 7rem 8rem;
+        background-size: cover;
+        min-height: 800px;
+    }
+    .bottle-slider-area {
+        min-height: 600px;
+    }
+    .convention {
+        min-height: 1280px;
+        padding-top: 0;
+    }
+    .convention .section-title {
+        padding-bottom: 25rem;
+    }
+    .convention.convention-2 {
+        min-height: 930px;
+    }
+    .box-package {
+        padding: 20px 0;
+    }
+    .box-package-img {
+        margin-top: -100px;
+    }
+    .box-package .absolute-img {
+        bottom: -150px;
+    }
+    .thank-you-area {
+        height: 541px;
+        padding-top: 100px;
+    }
+    .web-package-img.web-package-2 {
+        right: -10%;
+        top: 19%;
+    }
+    .absolute-img img {
+        max-width: 250px;
+    }
+    .convention {
+        min-height: 1040px;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    /* HEADER */
+    .header-area {
+        padding-top: 90px;
+    }
+    .logo img {
+        max-height: 80px;
+    }
+    html {
+        font-size: 30.5%;
+    }
+    p {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+    .absolute-img  img{
+        width: 250px;
+    }
+    .convention {
+        min-height: 400px;
+        padding-top: 0;
+    }
+    .convention .section-title {
+        padding-bottom: 0;
+    }
+    .convention.convention-2 {
+        min-height: 480px;
+        margin-top: -90px;
+        display: flex;
+        align-items: center;
+    }
+    .full-synthetic {
+        min-height: 330px;
+        padding-top: 40px;
+        text-align: center;
+    }
+    .diesel-title-text h3 {
+        font-size: 9.2rem;
+    }
+    .synthetic-blend {
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    .synthetic-blend::after {
+        height: 90%;
+    }
+    .single-card-img img {
+        margin-top: -10px;
+        margin-left: -15px;
+    }
+    .convention-img {
+        text-align: center;
+    }
+    .convention-img img {
+        width: 150px;
+    }
+    .diesel-area {
+        text-align: center;
+    }
+    .diesel-area .row {
+        justify-content: center;
+    }
+    .product-left-shape {
+        display: none;
+    }
+    .box-package-img {
+        margin-top: -50px;
+    }
+    .web-package {
+        text-align: center;
+    }
+    .web-package .box-package-text {
+        margin-bottom: 20px;
+    }
+    .box-package {
+        padding: 0;
+        text-align: center;
+    }
+    .box-package-text {
+        margin-bottom: 60px;
+    }
+    .web-package-img.web-package-2 {
+        position: relative;
+        margin-top: -50px;
+    }
+    .web-package-img.web-package-3 {
+        position: relative;
+        z-index: 3;
+        margin-top: -50px;
+    }
+    .thank-you-area{
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+    .thank-you-area .box-package-text {
+        margin-bottom: 0;
+    }
+    .thank-you-area {
+        margin-top: -55px;
+        height: 390px;
+        margin-bottom: 0px;
+    }
+    .product-box {
+        padding: 8rem 0rem;
+        text-align: center;
+        padding-top: 90px;
+        min-height: 600px;
+    }
+    .diesel-area {
+        min-height: 700px;
+        padding-top: 50px;
+    }
+    .bottle-slider-area {
+        min-height: 500px;
+        margin-top: -54px;
+        margin-bottom: -75px;
+    }
+    .web-package {
+        padding-top: 200px;
+    }
+    .box-package .absolute-img {
+        bottom: -150px;
+    }
+    .product-box-img.text-center img {
+        width: 300px;
+        margin-top: 30px;
+    }
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .slick-arrow {
+        height: 40px;
+        width: 40px;
+        font-size: 25px;
+        line-height: 45px;
+        left: -2%;
+        margin-top: -20px;
+    }
+    
+    .slick-arrow.slick-next {
+        left: auto;
+        right: -2%;
+    }
+    
+    
+    /* HEADER */
+    .header-area {
+        padding-top: 24px;
+    }
+    .logo img {
+        max-height: 80px;
+    }
+    #scrollUp {
+        height: 30px;
+        right: 15px;
+        width: 30px;
+    }
+    #scrollUp i {
+        line-height: 30px;
+    }
+
+
+
+
+
+
+
+    html {
+        font-size: 20.5%;
+    }
+    p {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+    .absolute-img  img{
+        width: 150px;
+    }
+    .convention {
+        min-height: 630px;
+        text-align: center;
+        padding-top: 0;
+    }
+    .convention .section-title {
+        padding-bottom: 0;
+    }
+    .convention.convention-2 {
+        min-height: 580px;
+        margin-top: -90px;
+    }
+    .full-synthetic {
+        min-height: 330px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .synthetic-blend {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    .synthetic-blend::after {
+        height: 90%;
+    }
+    .single-card-img img {
+        margin-top: -10px;
+        max-width: 150px;
+        margin-left: -15px;
+    }
+    .convention-img {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .convention-img img {
+        width: 150px;
+    }
+    .diesel-area {
+        text-align: center;
+    }
+    .diesel-area .row {
+        justify-content: center;
+    }
+    .single-bottle img {
+        height: 150px;
+    }
+    .product-left-shape {
+        display: none;
+    }
+    .box-package-img {
+        margin-top: -50px;
+    }
+    .web-package {
+        text-align: center;
+    }
+    .web-package .box-package-text {
+        margin-bottom: 20px;
+    }
+    .box-package {
+        padding: 0;
+        text-align: center;
+    }
+    .box-package-text {
+        margin-bottom: 60px;
+    }
+    .web-package-img.web-package-2 {
+        position: relative;
+        margin-top: -50px;
+    }
+    .web-package-img.web-package-3 {
+        position: relative;
+        z-index: 3;
+        margin-top: -50px;
+    }
+    .thank-you-area{
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+    .thank-you-area .box-package-text {
+        margin-bottom: 0;
+    }
+    .thank-you-area {
+        margin-top: -50px;
+        height: 260px;
+        margin-bottom: 0px;
+    }
+    .product-box {
+        padding: 8rem 0rem;
+        text-align: center;
+        padding-top: 90px;
+        min-height: 550px;
+    }
+    .diesel-area {
+        min-height: 845px;
+        padding-top: 50px;
+    }
+    .diesel-title-text {
+        margin-bottom: 30px;
+    }
+    .bottle-slider-area {
+        min-height: 230px;
+        margin-top: -54px;
+        margin-bottom: -75px;
+    }
+    .web-package {
+        padding-top: 120px;
+    }
+    .box-package .absolute-img {
+        bottom: -80px;
+    }
+    .product-box-img.text-center img {
+        width: 200px;
+        margin-top: 30px;
+    }
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.header-area {
+	min-height: 109.5rem;
+}
+.header-area {
+	padding-top: 50px;
+}
+.product-box {
+	padding-top: 35rem;
+}
+.web-package {
+	padding-top: 150px;
+}
+}
